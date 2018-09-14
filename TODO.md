@@ -50,6 +50,6 @@ TODO
  - Something for door of Atlantis City [Claimed by: LatentLeprechaun]
 
 **Future Versions**
- - Update to 1.8
+ - Update to 1.7 followed by 1.8
  - Colored Light API
  - Better Fishing
